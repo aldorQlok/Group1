@@ -1,4 +1,9 @@
 
+function myFunction() {
+    alert("hej");
+}
+
+
 document.addEventListener("DOMContentLoaded", function() {
     const jumiBtn = document.getElementById("jumi");
     const evaBtn = document.getElementById('eva-btn');
@@ -13,4 +18,5 @@ document.addEventListener("DOMContentLoaded", function() {
     })
   
 });
+
 
